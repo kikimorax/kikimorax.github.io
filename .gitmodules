@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-white"]
+	path = themes/hexo-theme-white
+	url = https://github.com/kikimorax/hexo-theme-white.git
